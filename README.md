@@ -1,3 +1,7 @@
+#### Personal Markdown blog created with Next.js 13 & Tailwind CSS
+
+Demo: https://juleni.github.io/blog/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
