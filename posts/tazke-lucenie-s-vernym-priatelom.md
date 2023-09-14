@@ -26,4 +26,4 @@ No aj napriek tomu, že už tu fyzicky so mnou nie si, tvoja prítomnosť zostan
 
 #### Odpočívaj v pokoji milovaný zajačik !
 
-![](/images/nufko.jpg)
+![](/blog/images/nufko.jpg)

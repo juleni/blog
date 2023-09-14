@@ -18,7 +18,7 @@ function Header() {
               data-tooltip-content="Run Dillinger to edit markdown file online"
             >
               <Image
-                src="/logo.png"
+                src="/blog/logo.png"
                 alt="Run Dillinger to edit markdown file online"
                 width={70}
                 height={70}
