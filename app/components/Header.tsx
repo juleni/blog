@@ -30,7 +30,7 @@ function Header() {
 
           <div className="pl-2 sm:pl-6">
             <Link href="/">
-              <h1 className="text-xl sm:text-3xl text-green-600 mt-2 font-medium">
+              <h1 className="text-2xl sm:text-4xl text-green-600 mt-2 font-medium">
                 MarkDown Blog
               </h1>
             </Link>
